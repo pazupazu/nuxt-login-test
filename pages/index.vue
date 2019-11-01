@@ -4,7 +4,7 @@
       <login></login>
     </template>
     <template v-else>
-      <p>indexじゃ</p>
+      <p>indexじゃ!!!</p>
       <button>ログアウト</button>
     </template>
   </div>
